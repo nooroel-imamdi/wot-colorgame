@@ -1,0 +1,47 @@
+html,body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  color: #333333;
+}
+body{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+section{
+  text-align: center;
+}
+h1{
+  font-size: 1.5em;
+  color: #333333;
+  margin-bottom: 0;
+}
+h2{
+  margin-top: 0;
+  padding-top: 0;
+  font-size: 7em;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: -3px;
+}
+.green{
+  color: #3ECF8E;
+}
+.blue{
+  color: #3197D6;
+}
+.black{
+  color: #000000;
+}
+.orange{
+  color: #FF6440;
+}
+.red{
+  color: #EF0D33;
+}
+.yellow{
+  color: #F0CA0E;
+}
